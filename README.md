@@ -31,7 +31,7 @@
 
 <p>Как решала: краткое описание решения <p>
 
-> Ссылка на[Проект](https://antonqatest.atlassian.net/l/cp/rAXpb93p).
+> Ссылка на [Проект](https://antonqatest.atlassian.net/l/cp/rAXpb93p").
 > <p> логин: dehico8286@fsouda.com </p>
 > <p> пароль: 16Jan2023 </p>
  
