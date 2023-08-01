@@ -24,7 +24,7 @@
 
 <p>Как решала(-а): краткое описание решения (автореферат)<p>
 
-> <a href="[https://testqa35.atlassian.net/wiki/spaces/MP/pages/33272/EX1+1](https://antonqatest.atlassian.net/l/cp/txjnFfBf)">Ссылка на проект</a>
+> <a href="https://testqa35.atlassian.net/wiki/spaces/MP/pages/33272/EX1+1](https://antonqatest.atlassian.net/l/cp/txjnFfBf">Ссылка на проект</a>
 > <p> логин: dehico8286@fsouda.com </p>
 > <p> пароль: 16Jan2023 </p>
  
