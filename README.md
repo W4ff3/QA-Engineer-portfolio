@@ -30,15 +30,12 @@
 </ol>
 
 <p>Как решал: краткое описание решения <p>
-> Сылка на рабочий **[Project](https://drive.google.com/drive/folders/1lPTZuDAdRp_QtEU2Q3HMG4ed0HnmXVrY?usp=sharing)**
-
-**[EFF](https://eff.org)**
+> Сылка на рабочий проект https://drive.google.com/drive/folders/1lPTZuDAdRp_QtEU2Q3HMG4ed0HnmXVrY?usp=sharing
 
  
  <p>Выводы (итоги):<p>
 <ol>
-  <li>Итог №1</li>
-  <li>Итог №2</li>
+  <li>Данный кейс потребовал от меня применения всех знаний,которые я приобрел в процессе учёбы в SkyPro. Решение кейса было увлекательным и трудоёмким.</li>
 </ol>
 
 
