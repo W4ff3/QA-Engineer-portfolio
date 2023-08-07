@@ -31,7 +31,7 @@
 
 <p>Как решал: краткое описание решения <p>
 
-> Ссылка на [Проект](https://antonqatest.atlassian.net/l/cp/rAXpb93p](https://id.atlassian.com/login?continue=https%3A%2F%2Fid.atlassian.com%2Fjoin%2Fuser-access%3Fresource%3Dari%253Acloud%253Aconfluence%253A%253Asite%252Fcc52dc76-bb4d-465c-82e6-6c87219ccc4b%26continue%3Dhttps%253A%252F%252Fantonqatest.atlassian.net%252Fwiki%252Fspaces%252F_%252Fpages%252F819201%253FatlOrigin%253DeyJpIjoiMWJkZmY2MjQ1YjUwNDA2YjkxYTc4YzA0OGQxZjE5NTIiLCJwIjoiYyJ9&application=confluence)https://id.atlassian.com/login?continue=https%3A%2F%2Fid.atlassian.com%2Fjoin%2Fuser-access%3Fresource%3Dari%253Acloud%253Aconfluence%253A%253Asite%252Fcc52dc76-bb4d-465c-82e6-6c87219ccc4b%26continue%3Dhttps%253A%252F%252Fantonqatest.atlassian.net%252Fwiki%252Fspaces%252F_%252Fpages%252F819201%253FatlOrigin%253DeyJpIjoiMWJkZmY2MjQ1YjUwNDA2YjkxYTc4YzA0OGQxZjE5NTIiLCJwIjoiYyJ9&application=confluence](https://antonqatest.atlassian.net/l/cp/rAXpb93p)").
+> Ссылка на [Проект]([https://drive.google.com/file/d/1MvFxZBGh89Qn0OCJLPJCzkh2wwD9pNzR/view?usp=drive_link))").
 > <p> логин: dehico8286@fsouda.com </p>
 > <p> пароль: 16Jan2023 </p>
  
