@@ -30,7 +30,7 @@
 </ol>
 
 <p>Как решал: краткое описание решения <p>
-> Сылка на рабочий [проект](https://drive.google.com/drive/folders/1lPTZuDAdRp_QtEU2Q3HMG4ed0HnmXVrY?usp=sharing).
+> Сылка на рабочий [Проект](https://drive.google.com/drive/folders/1lPTZuDAdRp_QtEU2Q3HMG4ed0HnmXVrY?usp=sharing).
 
  
  <p>Выводы (итоги):<p>
