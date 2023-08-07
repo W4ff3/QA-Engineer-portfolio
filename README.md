@@ -30,13 +30,8 @@
 </ol>
 
 <p>Как решал: краткое описание решения <p>
+> Сылка на рабочий [проект](https://drive.google.com/drive/folders/1lPTZuDAdRp_QtEU2Q3HMG4ed0HnmXVrY?usp=sharing).
 
-> Ссылка на [Проект]([https://drive.google.com/file/d/1MvFxZBGh89Qn0OCJLPJCzkh2wwD9pNzR/view?usp=drive_link")
-
-My favorite search engine is [Duck Duck Go](https://drive.google.com/file/d/1MvFxZBGh89Qn0OCJLPJCzkh2wwD9pNzR/view?usp=drive_link).
-
-> <p> логин: dehico8286@fsouda.com </p>
-> <p> пароль: 16Jan2023 </p>
  
  <p>Выводы (итоги):<p>
 <ol>
