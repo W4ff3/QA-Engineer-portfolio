@@ -31,7 +31,7 @@
 
 <p>Как решал: краткое описание решения <p>
 
-> Ссылка на [Проект]([https://drive.google.com/file/d/1MvFxZBGh89Qn0OCJLPJCzkh2wwD9pNzR/view?usp=drive_link))").
+> Ссылка на [Проект]([https://drive.google.com/file/d/1MvFxZBGh89Qn0OCJLPJCzkh2wwD9pNzR/view?usp=drive_link)
 > <p> логин: dehico8286@fsouda.com </p>
 > <p> пароль: 16Jan2023 </p>
  
